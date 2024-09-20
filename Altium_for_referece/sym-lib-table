@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "BlockDiagram-altium-import")(type "KiCad")(uri "${KIPRJMOD}/BlockDiagram-altium-import.kicad_sym")(options "")(descr ""))
+  (lib (name "MainSheet-altium-import")(type "KiCad")(uri "${KIPRJMOD}/MainSheet-altium-import.kicad_sym")(options "")(descr ""))
+)

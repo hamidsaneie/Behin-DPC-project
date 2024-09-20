@@ -1,0 +1,48 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid c98de3d7-6959-491f-805a-b1597781c542)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 35.56 31.75) (size 109.22 54.61) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid d3d8e748-34c8-4861-b97b-9214b4493a27)
+    (property "Sheetname" "Main" (at 35.56 31.0384 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "BlockDiagram.kicad_sch" (at 35.56 86.9446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "DPC_Project_V1.0"
+        (path "/c98de3d7-6959-491f-805a-b1597781c542" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 35.56 100.33) (size 107.95 44.45) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid e62428ce-e461-4ba7-a179-07e604b27bfc)
+    (property "Sheetname" "BlockDiagram" (at 35.56 99.6184 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Main.kicad_sch" (at 35.56 145.3646 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "DPC_Project_V1.0"
+        (path "/c98de3d7-6959-491f-805a-b1597781c542" (page "3"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
