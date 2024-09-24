@@ -133,10 +133,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VKUMELYR
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for CoolerProtectionCircuit\Design Rule Check - PCB1.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
